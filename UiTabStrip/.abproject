@@ -1,0 +1,37 @@
+{
+  "ProjectName": "UiTabStrip",
+  "ProjectGuid": "87d5fc5a-2917-496d-a826-49a5d41bc0a3",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.UiTabStrip",
+  "DisplayName": "UiTabStrip",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.5.0",
+  "AndroidPermissions": [],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{54aa05b6-9754-49d8-ab8e-c59aa81d18ea}",
+  "WP8ProductID": "{0bc69d15-58b3-4b01-88a4-54b7a49b3286}",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
