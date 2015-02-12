@@ -1,0 +1,8 @@
+{
+  "ProjectName": "UiTabStrip.Tests",
+  "ProjectGuid": "2bb24e5f-d567-4dea-a8b0-5871e47f9411",
+  "projectVersion": 1,
+  "ProjectTypeGuids": "{6319b66f-8dff-4073-91be-3cd48a2fdeb3}",
+  "FrameworkVersion": "1.0",
+  "Framework": "MobileTesting"
+}
